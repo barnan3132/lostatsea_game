@@ -1,6 +1,7 @@
 # Survive the Sea
 
 Survive the Sea is a Python text-based adventure.
+
 Can you **survive** the harsh sea?
 
 ## Installation
@@ -16,3 +17,6 @@ main.py
 
 ## Feedback is appreciated!
 Please feel free to report bugs, give insight or provide feedback.
+
+### Created by:
+Barnan Adhikari in Regina, Saskatchewan, *2020*
